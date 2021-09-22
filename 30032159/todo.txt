@@ -1,0 +1,55 @@
+PQ 5, 6, PROJECT
+
+5
+• Address how to use Static Analysis Tools for PHP code. Personal research may be required. Include
+an example in your answer.
+
+6
+• Create Analysis documentation that includes:
+o The prototype of the UI design of the website
+o Functional design and architectural requirements, e.g. how the website should work.
+o Brief purpose of this website and its required functionality
+o Target system of this application, e.g. operating system, browser, etc
+o The data storage design (database design to store user details). 
+
+• Create test documentation
+• Test your code against the PEAR code standard with an appropriate static analysis
+tool, e.g. PHP_CodeSniffer
+• Fix the errors detected. E.g. you can use the PHP Code Beautifier utility.
+• Test and validate with sample inputs with screenshots.
+• Test the logic of the contents of the application.
+• Validate the consistency between the code and the software design. Include testing
+in various browsers, e.g. Chrome and Firefox.
+• Demonstrate software risk analysis and provide a simple report.
+• Identify potential software risks or problems, e.g. Possible invalid user inputs that
+cause unexpected behaviour? Is requirements incomplete? Security issues?
+• Specify what adjustments have been made according to your test.
+
+PROJECT
+Create a report that answers the following:
+• What develop and run environment are used, e.g. what tools will be used for design and
+development. How will you set up server-side environment and database?
+o Identify any ambiguity in the specifications and requirements and clarify them before
+designing the application.
+• Design the application
+o Produce a prototype of the user interface in a visual format as an image(s) or template web
+site. Include website navigation hierarchy.
+o Create the database design and validate it against the spreadsheet data, e.g. database
+structure.
+o Design appropriate forms for user inputs and data display.
+o List the HTML forms elements and CSS for your design.
+o Design separate web modules/components, e.g. header, footer modules to be included
+o Save your design separately before developing the application.
+
+• Create test documentation
+o Test your code against the PEAR code standard with an appropriate static analysis tool,
+e.g. PHP_CodeSniffer
+o Fix the errors detected. E.g. you can use the PHP Code Beautifier utility.
+o Demonstrate software risk analysis and add this section to the report.
+o Identify potential software risks or problems, e.g. Possible invalid user inputs that cause
+unexpected behaviour? Is requirements incomplete? Security issues?
+o Test and validate with sample inputs with screenshots.
+o Test the logic of the contents of the application.
+o Validate the consistency between the code and the software design. Include testing in various
+browsers, e.g. Chrome and Firefox.
+o Provide evidence that you adjusted your application base on the test. 
